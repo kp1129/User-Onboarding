@@ -1,0 +1,7 @@
+.my-form {
+    margin: 0 auto;
+}
+
+#name, #email, #password, button {
+    display: block;
+}
